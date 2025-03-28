@@ -79,7 +79,7 @@ This project presents a **speedometer system** utilizing STM32F407 for efficient
 | UART TX | USART2_TX (e.g., PA2) |
 | UART RX | USART2_RX (e.g., PA3) |
 
-## 📷 Screenshots
+## 📷 Experimental Setup
 ![Game Preview](screenshots/Experimental_setup.jpg)
 
 ## 🎯 Future Improvements
