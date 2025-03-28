@@ -1,0 +1,28 @@
+16:24:51 **** Incremental Build of configuration Debug for project speedometer_transmitter ****
+make -j4 all 
+arm-none-eabi-size  speedometer_transmitter.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8052	     12	   1700	   9764	   2624	speedometer_transmitter.elf
+Finished building: default.size.stdout
+ 
+16:24:58 **** Incremental Build of configuration Debug for project speedometer_transmitter ****
+make -j4 all 
+arm-none-eabi-size  speedometer_transmitter.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8052	     12	   1700	   9764	   2624	speedometer_transmitter.elf
+Finished building: default.size.stdout
+ 
+15:11:46 **** Incremental Build of configuration Debug for project speedometer_transmitter ****
+make -j4 all 
+arm-none-eabi-size  speedometer_transmitter.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8052	     12	   1700	   9764	   2624	speedometer_transmitter.elf
+Finished building: default.size.stdout
+ 
+15:12:11 **** Incremental Build of configuration Debug for project speedometer_transmitter ****
+make -j4 all 
+arm-none-eabi-size  speedometer_transmitter.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8052	     12	   1700	   9764	   2624	speedometer_transmitter.elf
+Finished building: default.size.stdout
+ 
