@@ -44,8 +44,7 @@ This project presents a **speedometer system** utilizing STM32F407 for efficient
 ## 🚀 How to Run the Program
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/speedometer-stm32.git
-   cd speedometer-stm32
+   git clone https://github.com/Vaishnavi-2401/SPEEDOMETER_PROJECT.git
    ```
 2. **Build the Project**
    - Open the project in **STM32CubeIDE**.
